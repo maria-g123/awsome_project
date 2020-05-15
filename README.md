@@ -9,3 +9,7 @@
 ## Tech stack
 
 ## Collaborators
+
+- Jose Juan Reyes
+- Lia Zoe
+- Guie Cruz
