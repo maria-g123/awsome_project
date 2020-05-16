@@ -8,6 +8,11 @@
 
 ## Tech stack
 
+- Lisp
+- Smalltalk
+- Elm
+- ReasonML
+
 ## Collaborators
 
 - Jose Juan Reyes
